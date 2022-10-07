@@ -1,0 +1,1 @@
+# Minimum-caharacters-to-be-added-at-front-to-mkae-string-palindrome_C-
